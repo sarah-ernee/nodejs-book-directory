@@ -1,0 +1,84 @@
+[
+  { "id": 1, "name": "Alice in Wonderland", "author": "Lewis Carroll" },
+  {
+    "id": 2,
+    "name": "Around the World in Eighty Days",
+    "author": "Jules Verne"
+  },
+  { "id": 3, "name": "David Copperfield", "author": "Charles Dickens" },
+  { "id": 4, "name": "The Adventures of Tom Sawyer", "author": "Mark Twain" },
+  {
+    "id": 5,
+    "name": "Harry Potter and The Philosopher's Stone",
+    "author": "J.K. Rowling"
+  },
+  { "id": 6, "name": "To Kill a Mockingbird", "author": "Harper Lee" },
+  { "id": 7, "name": "1984", "author": "George Orwell" },
+  { "id": 8, "name": "Pride and Prejudice", "author": "Jane Austen" },
+  { "id": 9, "name": "The Great Gatsby", "author": "F. Scott Fitzgerald" },
+  { "id": 10, "name": "The Catcher in the Rye", "author": "J.D. Salinger" },
+  { "id": 11, "name": "The Hobbit", "author": "J.R.R. Tolkien" },
+  {
+    "id": 12,
+    "name": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling"
+  },
+  {
+    "id": 13,
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling"
+  },
+  { "id": 14, "name": "The Lord of the Rings", "author": "J.R.R. Tolkien" },
+  { "id": 15, "name": "The Hunger Games", "author": "Suzanne Collins" },
+  { "id": 16, "name": "The Fault in Our Stars", "author": "John Green" },
+  { "id": 17, "name": "The Book Thief", "author": "Markus Zusak" },
+  { "id": 18, "name": "The Alchemist", "author": "Paulo Coelho" },
+  { "id": 19, "name": "Jane Eyre", "author": "Charlotte Brontë" },
+  { "id": 20, "name": "Moby Dick", "author": "Herman Melville" },
+  { "id": 21, "name": "Wuthering Heights", "author": "Emily Brontë" },
+  { "id": 22, "name": "The Chronicles of Narnia", "author": "C.S. Lewis" },
+  { "id": 23, "name": "The Kite Runner", "author": "Khaled Hosseini" },
+  { "id": 24, "name": "Brave New World", "author": "Aldous Huxley" },
+  { "id": 25, "name": "Gone with the Wind", "author": "Margaret Mitchell" },
+  { "id": 26, "name": "Animal Farm", "author": "George Orwell" },
+  { "id": 27, "name": "The Da Vinci Code", "author": "Dan Brown" },
+  { "id": 28, "name": "The Shining", "author": "Stephen King" },
+  { "id": 29, "name": "The Picture of Dorian Gray", "author": "Oscar Wilde" },
+  { "id": 30, "name": "Fahrenheit 451", "author": "Ray Bradbury" },
+  { "id": 31, "name": "Little Women", "author": "Louisa May Alcott" },
+  { "id": 32, "name": "The Handmaid's Tale", "author": "Margaret Atwood" },
+  { "id": 33, "name": "A Tale of Two Cities", "author": "Charles Dickens" },
+  { "id": 34, "name": "The Giver", "author": "Lois Lowry" },
+  {
+    "id": 35,
+    "name": "The Secret Garden",
+    "author": "Frances Hodgson Burnett"
+  },
+  { "id": 36, "name": "Dracula", "author": "Bram Stoker" },
+  {
+    "id": 37,
+    "name": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  { "id": 38, "name": "Slaughterhouse-Five", "author": "Kurt Vonnegut" },
+  { "id": 39, "name": "A Game of Thrones", "author": "George R.R. Martin" },
+  { "id": 40, "name": "Dune", "author": "Frank Herbert" },
+  { "id": 41, "name": "Crime and Punishment", "author": "Fyodor Dostoevsky" },
+  {
+    "id": 42,
+    "name": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson"
+  },
+  { "id": 43, "name": "The Outsiders", "author": "S.E. Hinton" },
+  { "id": 44, "name": "The Color Purple", "author": "Alice Walker" },
+  { "id": 45, "name": "Memoirs of a Geisha", "author": "Arthur Golden" },
+  { "id": 46, "name": "Anna Karenina", "author": "Leo Tolstoy" },
+  { "id": 47, "name": "The Road", "author": "Cormac McCarthy" },
+  { "id": 48, "name": "Life of Pi", "author": "Yann Martel" },
+  { "id": 49, "name": "The Stand", "author": "Stephen King" },
+  {
+    "id": 50,
+    "name": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger"
+  }
+]
