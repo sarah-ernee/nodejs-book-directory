@@ -1,12 +1,18 @@
 const express = require("express");
 const app = express();
-app.use(express.json());
+app.use(express.json()); // middleware to parse request body
 
 const books = require("./books.json");
 
 // Get all books
 app.get("/", (request, response) => {
-  response.send(books);
+  const data = readFile(books, "utf8");
+
+  if (!data) {
+    return response.status(400).json({ message: "JSON file was empty" });
+  }
+
+  response.status(200).json(Json.parse(data)); // need JSON.parse() to correctly pass it as a JSON obj instead of string
 });
 
 // Get a specific book
@@ -20,7 +26,7 @@ app.get("/:id", (request, response) => {
       .json({ error: `Book with ID ${id} was not found` });
   }
 
-  response.json(book);
+  response.json(JSON.parse(books));
 });
 
 // Add a new book
